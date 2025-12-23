@@ -1,0 +1,1 @@
+This project provides a comprehensive analysis of employee attrition within an organization. By analyzing key demographic and professional factors, the project identifies patterns and trends that contribute to employee turnover, offering actionable insights for HR management to improve retention strategies
